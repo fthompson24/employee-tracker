@@ -20,14 +20,14 @@ employee-tracker
 ***
 
 ### **Description**  
-An employee tracking app using the node.js platform using mySQL. Allows you to view and manage the departments, roles, and employees in your company database.
+An employee tracking app built using the node.js platform and mySQL. Allows you to view and manage the departments, roles, and employees in your company database.
 
 ***
 
 ### **Installation**  
-#### Clone GitHub repository to your local device. 
-#### Run npm start in the command line in the root directory of this application. 
-#### Follow inquirer prompts to track your employees.
+#### Clone GitHub repository. 
+#### Run npm start.
+#### Follow inquirer prompts.
 
 ***
 
