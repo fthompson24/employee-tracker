@@ -31,18 +31,11 @@ An employee tracking app built using the node.js platform and mySQL. Allows you 
 
 ***
 
-### **Usage**  
+### **Walkthrough**  
 https://youtu.be/BOIEa7RtW6k
 
 ***
 
-### **Contributors**  
-fthompson24
-
-========================
-
 ### Questions?
 ##### GitHub: www.github.com/fthompson24
 ##### Email: fraserjthompson@gmail.com
-
-========================
