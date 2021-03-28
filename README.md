@@ -12,7 +12,7 @@
 
 ***
 
-![Alt text](./img/screenshot.png?raw=true "Optional Title")
+![Alt text](./img/Screenshot.png?raw=true "Optional Title")
 
 ### **Repository Name**  
 employee-tracker
