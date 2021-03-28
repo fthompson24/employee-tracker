@@ -6,16 +6,13 @@
 ***
 * [Description](#description)
 * [Installation](#installation)
-* [Usage](#usage)
-* [Contributors](#contributors)
-* [Contact](#questions)
+* [Walkthrough](#walkthrough)
+* [Contact](#contact)
 
 ***
 
 ![Alt text](./img/Screenshot.png?raw=true "Optional Title")
 
-### **Repository Name**  
-employee-tracker
 
 ***
 
@@ -36,6 +33,6 @@ https://youtu.be/BOIEa7RtW6k
 
 ***
 
-### Questions?
+### Contact
 ##### GitHub: www.github.com/fthompson24
 ##### Email: fraserjthompson@gmail.com
