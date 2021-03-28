@@ -42,7 +42,7 @@ fthompson24
 ========================
 
 ### Questions?
-##### GitHub: www.github.com/fthompson
+##### GitHub: www.github.com/fthompson24
 ##### Email: fraserjthompson@gmail.com
 
 ========================
